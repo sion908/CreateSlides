@@ -16,7 +16,6 @@ githubについて
 
 - githubについて
 
-# wa
 
 <!-- class: slide -->
 ## スライド2
