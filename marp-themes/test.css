@@ -54,6 +54,12 @@ section.slides h2 {
     position: absolute;
     left: 50px; top: 90px;
 }
+section.slides p {
+    font-size: 20px;
+    color: #4ac;
+    position: absolute;
+    left: 50px; top: 90px;
+}
 
 header{
     padding-bottom: 10px;
